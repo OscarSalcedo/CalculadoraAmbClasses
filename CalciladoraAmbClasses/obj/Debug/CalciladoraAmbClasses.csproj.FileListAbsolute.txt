@@ -1,0 +1,9 @@
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\bin\Debug\CalciladoraAmbClasses.exe.config
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\bin\Debug\CalciladoraAmbClasses.exe
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\bin\Debug\CalciladoraAmbClasses.pdb
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\obj\Debug\CalciladoraAmbClasses.Form1.resources
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\obj\Debug\CalciladoraAmbClasses.Properties.Resources.resources
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\obj\Debug\CalciladoraAmbClasses.csproj.GenerateResource.Cache
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\obj\Debug\CalciladoraAmbClasses.exe
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\obj\Debug\CalciladoraAmbClasses.pdb
+C:\Users\osalcedo\Documents\VisualStudioGit\CalciladoraAmbClasses\CalciladoraAmbClasses\obj\Debug\CalciladoraAmbClasses.csprojResolveAssemblyReference.cache
